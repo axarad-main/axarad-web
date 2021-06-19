@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: ``,
+    siteUrl: `https://axarad-web.netlify.app`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
